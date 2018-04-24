@@ -53,7 +53,7 @@ textarea {
 
 .wrapper_portfolio_image {
 position: relative;
- max-width: 200px; 
+ max-width: 200px;
 }
 
 .img_header {
@@ -97,7 +97,7 @@ footer {
 .test {
   display: relative;
 }
-s
+
 
 @media screen and (min-width: 640px) {
   .nav {
